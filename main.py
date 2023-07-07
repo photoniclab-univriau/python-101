@@ -1,3 +1,7 @@
+""""
+entry points
+"""
+
 from lib import calc_fg
 
 def main():
